@@ -1,4 +1,6 @@
-layout	title	categories
-post
-Dani Jorgensen-Skakum's DSC Fellows Project: It Goes Here
-fellow post
+---
+layout: post
+title:  "Dani Jorgensen-Skakum's DSC Fellows Project: Title Here"
+categories: fellow post
+---
+The will be stuff here that Dani might write. It'll be great! Copied ruthlessly from Evan.
